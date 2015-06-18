@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi how are youjjjj
+=======
+afjkfhakj.mvanjnakfjkha fabkbajhf;kah;lkfha;jkf
+>>>>>>> origin/master
